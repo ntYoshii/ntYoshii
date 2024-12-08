@@ -1,16 +1,22 @@
-## Hi there 👋
+# Software Engineer
 
-<!--
-**ntYoshii/ntYoshii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project Involvement
+- Worked on various software engineering projects, contributing to both front-end and back-end development.
+- Collaborated with cross-functional teams to design, develop, and maintain robust software solutions.
+- Actively participated in project planning, coding, testing, and deployment processes.
 
-Here are some ideas to get you started:
+## Technical Lead for University Project
+- Led a team of 5 members in developing a [Project Name], a software application designed to [brief description of project goal].
+- Oversaw the technical direction, architecture, and coding standards for the project.
+- Ensured timely delivery of milestones and provided mentorship to team members in software engineering best practices.
+- Utilized technologies like [mention relevant technologies or programming languages].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Maintain Legacy Database
+- Managed and maintained an existing legacy database, ensuring its integrity, performance, and security.
+- Implemented improvements and optimizations to support new features while preserving backward compatibility.
+- Worked on migrating data, integrating newer technologies, and resolving legacy system issues.
+- Ensured database consistency, backups, and efficient data queries to maintain system performance.
+
+---
+
+Feel free to explore my repositories for more information on my projects and contributions!
