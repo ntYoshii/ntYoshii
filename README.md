@@ -3,7 +3,7 @@
 # 👨‍💻 Yusfaizal Fairuz - Software Engineer & Athlete
 
 ### 🌟 About Me
-Hi there! I’m Ahmad Faruqi, a **software engineer** based in **Kuala Terengganu, Malaysia**. I thrive on solving complex problems, building scalable solutions, and improving legacy systems. When I’m not coding, you’ll find me breaking a sweat as an **athlete** or exploring new technologies to expand my expertise. 🚀
+Hi there! I’m Yusfaizal Fairuz, a **software engineer** based in **Kemaman, Terengganu, Malaysia**. I thrive on solving complex problems, building scalable solutions, and improving legacy systems. When I’m not coding, you’ll find me breaking a sweat as an **athlete** or exploring new technologies to expand my expertise. 🚀
 
 ---
 
@@ -49,7 +49,18 @@ I’m always seeking new challenges and opportunities to grow! Whether it’s ex
 ---
 
 ## 📬 Let’s Connect!
-- **📧 Email:** [ahmadfaruqii03@gmail.com](mailto:ahmadfaruqii03@gmail.com)  
+- **📧 Email:** [Yusfaizal26@gmail.com](mailto:Yusfaizal26@gmail.com)  
 - **💼 LinkedIn:** [Your LinkedIn Profile](#)  
 - **🐙 GitHub:** [Your GitHub Profile](#)  
 - **⚡ Fun Fact:** When I’m not coding, I’m likely on the field, hitting personal fitness goals as a proud gym rat! 💪
+
+---
+
+## 📊 GitHub Stats
+![Yusfaizal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ntYoshii&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+### 📈 GitHub Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntYoshii&layout=compact&hide_border=true&theme=radical)
+
+---
+
